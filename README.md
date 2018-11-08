@@ -1,1 +1,1 @@
-Various projects for Statistics, Machine Learnings (Supervised and Un-supervised)
+Various projects for Statistics, Machine Learnings (Supervised and Un-supervised).
